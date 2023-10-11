@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "100001",
+        "eventName": "Ethiopian New Year",
+        "eventDesc": "A public holiday in coincidence of New Year in Ethiopia and Eritrea. It occurs on Meskerem 1 on the Ethiopian calendar, which is 11 September (or, during a leap year, 12 September) according to the Gregorian calendar. The Ethiopian counting of years begins in the year 8 of the common era. This is because the common era follows the calculations of Dionysius, a 6th-century monk, while the non-Chalcedonian countries continued to use the calculations of Annius, a 5th-century monk, which had placed the Annunciation of Christ exactly 8 years later. For this reason, on Enkutatash in the year 2016 of the Gregorian calendar, it became 2009 in the Ethiopian calendar.",
+        "startDate": "1/1/0",
+        "endDate": "",
+        "startTime": "allday",
+        "endTime": "allday",
+        "type": "yearly"
+    },
+    {
+        "_id": "100002",
+        "eventName": "Finding of the true cross",
+        "eventDesc": "Meskel is a holiday in the Ethiopian Orthodox and Eritrean Orthodox churches that commemorates the discovery of the True Cross by the Roman Empress Helena (Saint Helena) in the fourth century. The festival is known as Feast of the Exaltation of the Holy Cross in other Orthodox, Catholic or Protestant churches. The churches that follow the Gregorian calendar celebrate the feast yearly on 14 September.",
+        "startDate": "17/1/0",
+        "endDate": "",
+        "startTime": "allday",
+        "endTime": "allday",
+        "type": "yearly"
+    },
+    {
+        "_id": "100003",
+        "eventName": "Ethiopian Christmas",
+        "eventDesc": "Ethiopian Christmas is celebrated on the 7th of January on the Gregorian calendar, or the 29th of Tahsas on the Ethiopian calendar. In the run up to Christmas, practitioners are expected to partake in a 43-day fast known as Tsome Nebiyat or the ‘Fast of the Prophets’. During this period, believers must abstain from all non-vegan products and psychoactive substances, including alcohol and can only consume one meal per day. Beginning on the 25th November, the fast is believed to clear the body of sin, allowing those who partake the opportunity to cleanse the spirit in anticipation of the birth of their saviour, Jesus Christ. ",
+        "startDate": "29/4/0",
+        "endDate": "",
+        "startTime": "allday",
+        "endTime": "allday",
+        "type": "yearly"
+    },
+    {
+        "_id": "100004",
+        "eventName": "Epiphany",
+        "eventDesc": "Timkat celebrates the baptism of Jesus in the River Jordan. This festival is best known for its ritual reenactment of baptism (similar to such reenactments performed by numerous Christian the Holy Land when they visit the Jordan).",
+        "startDate": "11/5/0",
+        "endDate": "",
+        "startTime": "allday",
+        "endTime": "allday",
+        "type": "yearly"
+    }
+]

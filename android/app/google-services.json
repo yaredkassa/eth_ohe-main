@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "565685791873",
+    "project_id": "zf-notif",
+    "storage_bucket": "zf-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565685791873:android:be8ac4c75992c8110c3180",
+        "android_client_info": {
+          "package_name": "com.eth_ohe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565685791873-bqtp5lb74ppqnik8d8lcsipv6egq529j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0EoApwd1SlyruaE91d0OLZew3qJGUzUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565685791873-bqtp5lb74ppqnik8d8lcsipv6egq529j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565685791873:android:be25745aeae427630c3180",
+        "android_client_info": {
+          "package_name": "com.nigs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565685791873-bqtp5lb74ppqnik8d8lcsipv6egq529j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0EoApwd1SlyruaE91d0OLZew3qJGUzUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565685791873-bqtp5lb74ppqnik8d8lcsipv6egq529j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

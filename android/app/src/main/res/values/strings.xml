@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ethiopia Orthodox በዓላትና ቀን ማውጫ</string>
+    <string name="date_text"> </string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="showing_events"> </string>
+    <string name="appwidget_text">EXAMPLE</string>
+</resources>

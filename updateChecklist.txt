@@ -1,0 +1,7 @@
+> Social Feature
+> UI Update
+> Better notification system
+> Fix ads
+> Fix Forms
+> Fix color change and thees
+> Change icon to dynamic
